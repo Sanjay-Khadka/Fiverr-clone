@@ -1,7 +1,9 @@
 .slide {
   display: flex;
+  position: relative;
   justify-content: center;
   padding: 100px 0px;
+  z-index: 0;
   .container {
     width: 1400px;
     .carousel-prev,
