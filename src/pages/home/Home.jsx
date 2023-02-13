@@ -60,6 +60,38 @@ const Home = () => {
           </div>
         </div>
       </div>
+      <div className="features2">
+        <div className="container2">
+          <div className="left-section2">
+            <h2>
+              fiverr <span> business.</span>
+            </h2>
+            <span className="main-title">
+              A business solution designed for <i>teams</i>
+            </span>
+            <span>
+              Upgrade to a curated experience packed with tools and benefits,
+              dedicated to businesses
+            </span>
+            <div className="title2">
+              <img src="./img/check.svg" alt="" />
+              Connect to freelancers with proven business experience
+            </div>
+            <div className="title2">
+              <img src="./img/check.svg" alt="" />
+              Get matched with the perfect talent by a customer success manager
+            </div>
+            <div className="title2">
+              <img src="./img/check.svg" alt="" />
+              Manage teamwork and boost productivity with one powerful workspace
+            </div>
+            <button>Explore fiverr business</button>
+          </div>
+          <div className="right-section2">
+            <img src="https://fiverr-res.cloudinary.com/q_auto,f_auto,w_870,dpr_1.0/v1/attachments/generic_asset/asset/d9c17ceebda44764b591a8074a898e63-1599597624757/business-desktop-870-x1.png" />
+          </div>
+        </div>
+      </div>
     </div>
   );
 };
