@@ -66,3 +66,94 @@ export const cards = [
     img: "https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741664/data-entry-2x.png",
   },
 ];
+
+export const projects = [
+  {
+    id: 1,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    cat: "gig1",
+    username: "sanjay",
+  },
+  {
+    id: 2,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    cat: "gig1",
+    username: "sanjay",
+  },
+  {
+    id: 3,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    cat: "gig1",
+    username: "sanjay",
+  },
+  {
+    id: 4,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    cat: "gig1",
+    username: "sanjay",
+  },
+  {
+    id: 5,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    cat: "gig1",
+    username: "sanjay",
+  },
+  {
+    id: 6,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    cat: "gig1",
+    username: "sanjay",
+  },
+  {
+    id: 7,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    cat: "gig1",
+    username: "sanjay",
+  },
+  {
+    id: 8,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    cat: "gig1",
+    username: "sanjay",
+  },
+  {
+    id: 9,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    cat: "gig1",
+    username: "sanjay",
+  },
+  {
+    id: 10,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    cat: "gig1",
+    username: "sanjay",
+  },
+  {
+    id: 11,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    cat: "gig1",
+    username: "sanjay",
+  },
+];
