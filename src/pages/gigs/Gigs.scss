@@ -1,12 +1,11 @@
 .gig {
   display: flex;
   justify-content: center;
-  .container {
+  .wrapper {
     display: flex;
     gap: 20px;
     flex-direction: column;
     width: 1400px;
-
     .menu {
       display: flex;
       width: 100%;

@@ -13,7 +13,7 @@ const Gigs = () => {
   };
   return (
     <div className="gig">
-      <div className="container">
+      <div className="wrapper">
         <span>webdesign/what/the</span>
         <h1>AI Artists</h1>
         <p>
