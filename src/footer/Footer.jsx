@@ -86,7 +86,7 @@ const Footer = () => {
               <div className="links">
                 <div className="icon-btn">$ USD</div>
               </div>
-              <img src="./img/pose.png" className="t-pose" />
+              <img src="./img/pose.png" className="t-pose" alt="man posing" />
             </div>
           </div>
         </div>
