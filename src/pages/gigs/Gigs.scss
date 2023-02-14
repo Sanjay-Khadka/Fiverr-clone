@@ -1,0 +1,77 @@
+.gig {
+  display: flex;
+  justify-content: center;
+  .container {
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    width: 1400px;
+
+    .menu {
+      display: flex;
+      width: 100%;
+      justify-content: space-between;
+      .inputs {
+        height: 25px;
+        display: flex;
+        gap: 10px;
+        align-items: center;
+        input {
+          height: 100%;
+          padding: 5px;
+          border-radius: 5px;
+          border: none;
+          outline: 1px solid rgb(174, 173, 173);
+        }
+        button {
+          padding: 10px 10px;
+          border: none;
+          cursor: pointer;
+          color: white;
+          text-align: center;
+          border-radius: 5px;
+          font-weight: 500;
+          background-color: #1dbf73;
+        }
+      }
+      .filter {
+        display: flex;
+        gap: 5px;
+        align-items: center;
+        position: relative;
+
+        span {
+          font-weight: 500;
+          cursor: pointer;
+        }
+        .options {
+          background-color: white;
+          border-radius: 5px;
+          display: flex;
+          right: 1px;
+          gap: 10px;
+          flex-direction: column;
+          position: absolute;
+          top: 25px;
+          border: 1px solid lightgray;
+          width: 100%;
+          span {
+            font-size: 14px;
+            cursor: pointer;
+            font-weight: 400;
+            padding: 10px 20px;
+            &:hover {
+              background: rgb(241, 240, 240);
+            }
+          }
+        }
+      }
+    }
+    .gig-container {
+      display: flex;
+      column-gap: 37px;
+      row-gap: 20px;
+      flex-wrap: wrap;
+    }
+  }
+}

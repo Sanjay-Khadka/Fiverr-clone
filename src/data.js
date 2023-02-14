@@ -74,6 +74,7 @@ export const projects = [
     profile:
       "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
     cat: "gig1",
+
     username: "sanjay",
   },
   {
@@ -82,6 +83,7 @@ export const projects = [
     profile:
       "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
     cat: "gig1",
+
     username: "sanjay",
   },
   {
@@ -90,6 +92,7 @@ export const projects = [
     profile:
       "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
     cat: "gig1",
+
     username: "sanjay",
   },
   {
@@ -98,6 +101,7 @@ export const projects = [
     profile:
       "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
     cat: "gig1",
+
     username: "sanjay",
   },
   {
@@ -106,6 +110,7 @@ export const projects = [
     profile:
       "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
     cat: "gig1",
+
     username: "sanjay",
   },
   {
@@ -114,6 +119,7 @@ export const projects = [
     profile:
       "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
     cat: "gig1",
+
     username: "sanjay",
   },
   {
@@ -122,6 +128,7 @@ export const projects = [
     profile:
       "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
     cat: "gig1",
+
     username: "sanjay",
   },
   {
@@ -130,6 +137,7 @@ export const projects = [
     profile:
       "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
     cat: "gig1",
+
     username: "sanjay",
   },
   {
@@ -138,6 +146,7 @@ export const projects = [
     profile:
       "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
     cat: "gig1",
+
     username: "sanjay",
   },
   {
@@ -146,6 +155,7 @@ export const projects = [
     profile:
       "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
     cat: "gig1",
+
     username: "sanjay",
   },
   {
@@ -154,6 +164,120 @@ export const projects = [
     profile:
       "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
     cat: "gig1",
+
+    username: "sanjay",
+  },
+];
+
+export const gigs = [
+  {
+    id: 1,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    desc: "gig1",
+    star: 5,
+    price: 1200,
+    username: "sanjay",
+  },
+  {
+    id: 2,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    desc: "gig1",
+    star: 5,
+    price: 1200,
+    username: "sanjay",
+  },
+  {
+    id: 3,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    desc: "gig1",
+    star: 5,
+    price: 1200,
+    username: "sanjay",
+  },
+  {
+    id: 4,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    desc: "gig1",
+    star: 5,
+    price: 1200,
+    username: "sanjay",
+  },
+  {
+    id: 5,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    desc: "gig1",
+    star: 5,
+    price: 1200,
+    username: "sanjay",
+  },
+  {
+    id: 6,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    desc: "gig1",
+    star: 5,
+    price: 1200,
+    username: "sanjay",
+  },
+  {
+    id: 7,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    desc: "gig1",
+    star: 5,
+    price: 1200,
+    username: "sanjay",
+  },
+  {
+    id: 8,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    desc: "gig1",
+    star: 5,
+    price: 1200,
+    username: "sanjay",
+  },
+  {
+    id: 9,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    desc: "gig1",
+    star: 5,
+    price: 1200,
+    username: "sanjay",
+  },
+  {
+    id: 10,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    desc: "gig1",
+    star: 5,
+    price: 1200,
+    username: "sanjay",
+  },
+  {
+    id: 11,
+    img: "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    profile:
+      "https://images.pexels.com/photos/13464741/pexels-photo-13464741.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    desc: "gig1",
+    star: 5,
+    price: 1200,
     username: "sanjay",
   },
 ];

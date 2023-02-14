@@ -6,6 +6,7 @@ import "./Home.scss";
 import { cards, projects } from "../../data";
 import Category from "../../components/catCard/Category";
 import ProjectCard from "../../components/projectCard/ProjectCard";
+import GigCards from "../../components/gigCards/GigCards";
 const Home = () => {
   return (
     <div>
@@ -98,6 +99,7 @@ const Home = () => {
           <ProjectCard item={project} key={project.id} />
         ))}
       </Slide>
+      <GigCards />
     </div>
   );
 };
