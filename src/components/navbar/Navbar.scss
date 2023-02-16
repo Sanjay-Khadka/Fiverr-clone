@@ -9,6 +9,15 @@
   top: 0;
   z-index: 1;
   &.active {
+    .links {
+      span:first-child {
+        color: #1e1692;
+        &:hover {
+          color: #1dbf73;
+        }
+      }
+    }
+
     background-color: white;
     color: black;
   }
@@ -34,7 +43,9 @@
     gap: 24px;
     align-items: center;
     font-weight: 600;
+    cursor: pointer;
     font-family: "Monterrat", "sans-serif";
+
     button {
       color: white;
       padding: 10px 20px;
