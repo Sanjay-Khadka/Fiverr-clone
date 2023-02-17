@@ -104,6 +104,18 @@
     align-items: center;
     font-weight: 300;
     color: gray;
+    transform: rotateX(90deg);
     font-family: "Montserrat", "sans-serif";
+    animation: flip 0.1s ease-in 0.2s forwards;
+  }
+
+  @keyframes flip {
+    from {
+      transform: rotateX(90deg);
+    }
+
+    to {
+      transform: rotateX(0deg);
+    }
   }
 }

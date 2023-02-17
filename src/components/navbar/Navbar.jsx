@@ -81,7 +81,6 @@ const Navbar = () => {
               Writing & Translation
             </Link>
             <Link className="link" to="/">
-              {" "}
               AI Service
             </Link>
             <Link className="link" to="/">
